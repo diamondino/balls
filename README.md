@@ -2,16 +2,17 @@
 
 A Minecraft modpack — **NeoForge 1.21.1** — shared with the [Brassworks Launcher](https://github.com/brassworks-smp).
 
+Shared by **swzo**.
+
 <br clear="left"/>
 
 ## ▶ Play this pack
 
-1. Install the [Brassworks Launcher](https://github.com/brassworks-smp).
-2. Open this link (or paste the pack URL into **Add Instance → packwiz**):
+**One click:** open [**this install link**](https://brassworks.opnsoc.org/install?pack_url=https%3A%2F%2Fraw.githubusercontent.com%2Fdiamondino%2Fballs%2Fmain%2Fpack.toml&name=Balls&unsup=false&shared_by=swzo) and Brassworks will set it up for you (with **automatic updates**).
+
+**Or manually:** install the [Brassworks Launcher](https://github.com/brassworks-smp) and paste this into **Add Instance → packwiz**:
 
 > https://raw.githubusercontent.com/diamondino/balls/main/pack.toml
-
-You'll get the pack and **automatic updates** whenever the author publishes changes.
 
 ## ℹ About
 
@@ -19,6 +20,7 @@ You'll get the pack and **automatic updates** whenever the author publishes chan
 |---|---|
 | Minecraft | `1.21.1` |
 | Loader | `NeoForge` |
+| Shared by | swzo |
 | Pack manifest | [`pack.toml`](./pack.toml) |
 | Branch | `main` |
 

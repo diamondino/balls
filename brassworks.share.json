@@ -1,0 +1,36 @@
+{
+  "id": "export-1782466871",
+  "name": "Balls (shared)",
+  "format": "packwiz",
+  "pack_name": "Balls",
+  "author": "",
+  "version": "1.0.0",
+  "selection": {
+    "mods": [
+      "mods/skinlayers3d-neoforge-1.11.2-mc1.21.1.jar",
+      "mods/appleskin-neoforge-mc1.21-3.0.9.jar",
+      "shaderpacks/ComplementaryReimagined_r5.8.1.zip",
+      "mods/entityculling-neoforge-1.10.5-mc1.21.1.jar",
+      "resourcepacks/FreshAnimations_v1.10.4.zip",
+      "mods/ImmediatelyFast-NeoForge-1.6.10+1.21.1.jar",
+      "mods/iris-neoforge-1.8.14-beta.1+mc1.21.1.jar",
+      "mods/jei-1.21.1-neoforge-19.27.0.343.jar",
+      "mods/lithium-neoforge-0.15.3+mc1.21.1.jar",
+      "resourcepacks/Better-Leaves-9.5.zip",
+      "mods/reeses-sodium-options-neoforge-2.2.0+mc1.21.1.jar",
+      "mods/sodium-neoforge-0.8.12-beta.2+mc1.21.1.jar",
+      "mods/sodium-extra-neoforge-0.8.7+mc1.21.1.jar",
+      "resourcepacks/SodiumTranslations.zip",
+      "mods/xaerominimap-neoforge-1.21.1-26.1.0.jar",
+      "mods/xaeroworldmap-neoforge-1.21.1-1.41.2.jar"
+    ],
+    "files": [],
+    "optional": {},
+    "flavor_groups": [],
+    "flavor_assignments": {}
+  },
+  "created_at": 1782466871,
+  "unsup": false,
+  "sign": false,
+  "sign_format": "signify"
+}

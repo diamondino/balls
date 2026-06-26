@@ -1,0 +1,81 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/appleskin-neoforge-mc1-21-3-0-9.pw.toml"
+hash = "a4c913e5820e6dbe2757d431483c3b163720918455c6738381df5a1107416b4f"
+metafile = true
+
+[[files]]
+file = "mods/entityculling-neoforge-1-10-5-mc1-21-1.pw.toml"
+hash = "14f3b633d77ee2fb32038dc46904e7e86135f85fc2719ddb391c41ee954b682a"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast-neoforge-1-6-10-1-21-1.pw.toml"
+hash = "6c4654690083959eb9f95cf52c0d715b17434e5a9ef9873dd843599ac339b726"
+metafile = true
+
+[[files]]
+file = "mods/iris-neoforge-1-8-14-beta-1-mc1-21-1.pw.toml"
+hash = "7a8146b9e25966b5172fb584f6d6fdf2fde99588021020735abe461e6392522e"
+metafile = true
+
+[[files]]
+file = "mods/jei-1-21-1-neoforge-19-27-0-343.pw.toml"
+hash = "68f9303edd8ee48292e5d662b8fc1e0289cd40124718f02eae599443ad80070f"
+metafile = true
+
+[[files]]
+file = "mods/lithium-neoforge-0-15-3-mc1-21-1.pw.toml"
+hash = "9f8a09d3f63800ff906b016d525ea01f5f3f8369b6a6c5ef6b36669fb9c40ed8"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options-neoforge-2-2-0-mc1-21-1.pw.toml"
+hash = "8287ef1dffa5501b4a87ecefc17bff0c52de90bf50275f2eee331cdc66a91d6f"
+metafile = true
+
+[[files]]
+file = "mods/skinlayers3d-neoforge-1-11-2-mc1-21-1.pw.toml"
+hash = "c7ad5bbd7aca377ba99dd00973e137b142846644272fc0832a060c23255f9799"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra-neoforge-0-8-7-mc1-21-1.pw.toml"
+hash = "f6565b2e66b3895f9a62612b1c2d0537b1f6f849aa2dc56efd141034019e83b6"
+metafile = true
+
+[[files]]
+file = "mods/sodium-neoforge-0-8-12-beta-2-mc1-21-1.pw.toml"
+hash = "a758b7b09a8e1c27fa4af0883f3a6d916b98e98ecf71bd277661674f93a308af"
+metafile = true
+
+[[files]]
+file = "mods/xaerominimap-neoforge-1-21-1-26-1-0.pw.toml"
+hash = "dd75000adfbcba1d2168bb3c1c63f3999b4b985a1e430c5ace4885b038352c78"
+metafile = true
+
+[[files]]
+file = "mods/xaeroworldmap-neoforge-1-21-1-1-41-2.pw.toml"
+hash = "3bf229513d3eaaa21720f2746d63ea2a63f348e58850b576c1ecf4ddc288b45e"
+metafile = true
+
+[[files]]
+file = "resourcepacks/better-leaves-9-5.pw.toml"
+hash = "2d5ba193c1de9ae1a50eaee5ddb6dbe2d1b0898d2cf00cb9a9b9b83dd2e902e5"
+metafile = true
+
+[[files]]
+file = "resourcepacks/freshanimations-v1-10-4.pw.toml"
+hash = "abc1c9258745118dd8534a64dae1031f608e92aa14c0121f4dd8a2d5157d8218"
+metafile = true
+
+[[files]]
+file = "resourcepacks/sodiumtranslations.pw.toml"
+hash = "1985ad7882647eb1bba7abed1d9c2a4904adbb0e1ca865028bb13aa42f51e5d3"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementaryreimagined-r5-8-1.pw.toml"
+hash = "45551d88c5a15c0837d705db7080caad40eba28064397ec7532ec3e5cbe710a5"
+metafile = true

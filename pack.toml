@@ -1,0 +1,13 @@
+name = "Balls"
+author = ""
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "56a2dcf435a576fd448c947f994c8c874947bcacc36f7b23cae6b24b125929f2"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = ""

@@ -1,20 +1,20 @@
 # Balls
 
-A Minecraft modpack — **NeoForge 1.21.1** — shared with the [Brassworks Launcher](https://github.com/brassworks-smp).
+A **NeoForge 1.21.1** Minecraft modpack, shared with the [Brassworks Launcher](https://github.com/brassworks-smp).
 
-Shared by **swzo**.
+Put together and shared by **swzo**.
 
 <br clear="left"/>
 
-## ▶ Play this pack
+## Play this pack
 
-**One click:** open [**this install link**](https://brassworks.opnsoc.org/install?pack_url=https%3A%2F%2Fraw.githubusercontent.com%2Fdiamondino%2Fballs%2Fmain%2Fpack.toml&name=Balls&unsup=false&shared_by=swzo&description=random+tests&min_memory_mb=2000&max_memory_mb=4000&jvm_args=-XX%3A%2BUseG1GC) and Brassworks will set it up for you (with **automatic updates**).
+The quickest way is one click: open [this install link](https://brassworks.opnsoc.org/install?pack_url=https%3A%2F%2Fraw.githubusercontent.com%2Fdiamondino%2Fballs%2Fmain%2Fpack.toml&name=Balls&unsup=false&shared_by=swzo) and Brassworks sets everything up for you, then keeps it up to date on its own.
 
-**Or manually:** install the [Brassworks Launcher](https://github.com/brassworks-smp) and paste this into **Add Instance → packwiz**:
+Rather do it by hand? Install the [Brassworks Launcher](https://github.com/brassworks-smp), choose **Add Instance**, pick **packwiz**, and paste in this manifest URL:
 
 > https://raw.githubusercontent.com/diamondino/balls/main/pack.toml
 
-## ℹ About
+## About this pack
 
 | | |
 |---|---|
@@ -26,6 +26,6 @@ Shared by **swzo**.
 
 ---
 
-> This repository is published and updated automatically by the Brassworks Launcher. Manual edits here may be overwritten the next time the author publishes.
+This repository is kept up to date automatically by the Brassworks Launcher, so anything you change here by hand may be overwritten the next time the author publishes an update.
 
-[Repository](https://github.com/diamondino/balls) · [Brassworks Launcher](https://github.com/brassworks-smp)
+[Browse the repository](https://github.com/diamondino/balls) · [Get the Brassworks Launcher](https://github.com/brassworks-smp)

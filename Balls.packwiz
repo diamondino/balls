@@ -1,7 +1,7 @@
 {
   "pack_url": "https://raw.githubusercontent.com/diamondino/balls/main/pack.toml",
   "name": "Balls",
-  "description": "random tests",
+  "description": null,
   "unsup": false,
   "shared_by": "swzo",
   "icon": null,
@@ -9,9 +9,7 @@
   "signing_key": null,
   "news_url": null,
   "playercount_url": null,
-  "min_memory_mb": 2000,
-  "max_memory_mb": 4000,
-  "jvm_args": [
-    "-XX:+UseG1GC"
-  ]
+  "min_memory_mb": null,
+  "max_memory_mb": null,
+  "jvm_args": null
 }

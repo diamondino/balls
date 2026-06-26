@@ -1,1 +1,1 @@
-https://brassworks.opnsoc.org/install?pack_url=https%3A%2F%2Fraw.githubusercontent.com%2Fdiamondino%2Fballs%2Fmain%2Fpack.toml&name=Balls&unsup=false&shared_by=swzo&description=random+test&min_memory_mb=2000&max_memory_mb=4000&jvm_args=-XX%3A%2BUseG1GC
+https://brassworks.opnsoc.org/install?pack_url=https%3A%2F%2Fraw.githubusercontent.com%2Fdiamondino%2Fballs%2Fmain%2Fpack.toml&name=Balls&unsup=false&shared_by=swzo&description=random+tests&min_memory_mb=2000&max_memory_mb=4000&jvm_args=-XX%3A%2BUseG1GC

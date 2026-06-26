@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/SodiumTranslations.zip"
+hash = "319b15e7993bfa0e51a3a00e575bcabd166160dc097e3ec68f9d4006187437f8"
+
+[[files]]
 file = "mods/appleskin-neoforge-mc1-21-3-0-9.pw.toml"
 hash = "a4c913e5820e6dbe2757d431483c3b163720918455c6738381df5a1107416b4f"
 metafile = true
@@ -8,6 +12,11 @@ metafile = true
 [[files]]
 file = "mods/entityculling-neoforge-1-10-5-mc1-21-1.pw.toml"
 hash = "14f3b633d77ee2fb32038dc46904e7e86135f85fc2719ddb391c41ee954b682a"
+metafile = true
+
+[[files]]
+file = "mods/ferritecore-7-0-3-neoforge.pw.toml"
+hash = "3b65f379bda60873e9bf9e28a6941bd2604380692079378767bd2237fa14cf92"
 metafile = true
 
 [[files]]

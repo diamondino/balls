@@ -8,7 +8,7 @@ Shared by **swzo**.
 
 ## ▶ Play this pack
 
-**One click:** open [**this install link**](https://brassworks.opnsoc.org/install?pack_url=https%3A%2F%2Fraw.githubusercontent.com%2Fdiamondino%2Fballs%2Fmain%2Fpack.toml&name=Balls&unsup=false&shared_by=swzo&description=random+test&min_memory_mb=2000&max_memory_mb=4000&jvm_args=-XX%3A%2BUseG1GC) and Brassworks will set it up for you (with **automatic updates**).
+**One click:** open [**this install link**](https://brassworks.opnsoc.org/install?pack_url=https%3A%2F%2Fraw.githubusercontent.com%2Fdiamondino%2Fballs%2Fmain%2Fpack.toml&name=Balls&unsup=false&shared_by=swzo&description=random+tests&min_memory_mb=2000&max_memory_mb=4000&jvm_args=-XX%3A%2BUseG1GC) and Brassworks will set it up for you (with **automatic updates**).
 
 **Or manually:** install the [Brassworks Launcher](https://github.com/brassworks-smp) and paste this into **Add Instance → packwiz**:
 

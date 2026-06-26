@@ -1,7 +1,7 @@
 {
   "pack_url": "https://raw.githubusercontent.com/diamondino/balls/main/pack.toml",
   "name": "Balls",
-  "description": "random test",
+  "description": "random tests",
   "unsup": false,
   "shared_by": "swzo",
   "icon": null,

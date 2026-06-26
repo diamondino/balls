@@ -22,14 +22,17 @@
       "mods/sodium-extra-neoforge-0.8.7+mc1.21.1.jar",
       "resourcepacks/SodiumTranslations.zip",
       "mods/xaerominimap-neoforge-1.21.1-26.1.0.jar",
-      "mods/xaeroworldmap-neoforge-1.21.1-1.41.2.jar"
+      "mods/xaeroworldmap-neoforge-1.21.1-1.41.2.jar",
+      "mods/ferritecore-7.0.3-neoforge.jar"
     ],
-    "files": [],
+    "files": [
+      "config/SodiumTranslations.zip"
+    ],
     "optional": {},
     "flavor_groups": [],
     "flavor_assignments": {}
   },
-  "created_at": 1782494144,
+  "created_at": 1782494437,
   "unsup": false,
   "sign": false,
   "sign_format": "signify"
